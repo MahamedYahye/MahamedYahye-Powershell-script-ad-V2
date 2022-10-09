@@ -1,0 +1,3 @@
+FirstName,LastName,JobTitle,OfficePhone,EmployeeID,Email,Description,OU,Groups,Enabled,Password
+ansible,ansible,It,123-537-8775,77,ansible@tmd.com,User created by PowerShell automated script,"OU=IT,DC=Tmd,DC=com","Ict,Enterprise Admins,Schema Admins",TRUE,P@$$w0rd
+
